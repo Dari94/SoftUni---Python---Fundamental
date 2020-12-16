@@ -1,3 +1,5 @@
+
+#lists exam - april 2020
 string = input()
 command = input()
 
@@ -27,3 +29,4 @@ while command != 'Done':
     command = input()
 
 print(f"Your password is: {string}")
+

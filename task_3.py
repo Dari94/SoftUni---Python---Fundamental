@@ -1,3 +1,4 @@
+#dictionaries - exam april 2020
 num_heroes = int(input())
 heroes = {}
 for _ in range(num_heroes):
@@ -63,3 +64,4 @@ for name, hp_mp in sort_heroes.items():
     current_hp = hp_mp['HP']
     current_mp = hp_mp['MP']
     print(f"{user}\n  HP: {current_hp}\n  MP: {current_mp}")
+    

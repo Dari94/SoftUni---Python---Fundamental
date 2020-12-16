@@ -1,3 +1,4 @@
+#regex - exam april 2020
 import re
 pattern = r"\@\#+(?P<bar>[A-Z][A-Za-z0-9]{4,}[A-Z])\@\#+"
 num = int(input())
